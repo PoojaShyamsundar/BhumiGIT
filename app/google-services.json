@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098051417527",
+    "firebase_url": "https://bhumi-504bb.firebaseio.com",
+    "project_id": "bhumi-504bb",
+    "storage_bucket": "bhumi-504bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098051417527:android:9996713103a7e549",
+        "android_client_info": {
+          "package_name": "com.example.pooja.bhumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098051417527-jflup6736jq7bak79tvk18806rh69n1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyS9MGj-KwPvL4nfbGUmwSLNXYBL3d74Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

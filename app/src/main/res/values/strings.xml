@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bhumi</string>
+    <string name="large_text">
+        "Bhumi Monitors Co2 levels from across city.\n\n"
+        "It logs co2 and dust levels from 100s of sensors across the city.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
